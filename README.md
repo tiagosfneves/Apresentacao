@@ -1,0 +1,4 @@
+- 👋 Olá, sou @tiagonevestec atuo como Designer Gráfico
+- 🌱 Desejo mudar de área e estou cursando o 2° semestre de ADS na @unip
+- 👀 A procura de conhecimentos e relacionamentos na área e afins
+- 📫 Segue meu contato tiagonevestec@gmail.com
