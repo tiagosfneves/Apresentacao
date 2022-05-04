@@ -1,4 +1,5 @@
-- 👋 Olá, sou @tiagonevestec atuo como Designer Gráfico
-- 🌱 Desejo mudar de área e estou cursando ADS na @unip
-- 👀 Procurando conhecimentos e relacionamentos na área e afins
-- 📫 Segue meu contato tiagonevestec@gmail.com
+- 👋 Olá, Bem vindo! Me chamo Tiago Neves, sou Designer Gráfico e estudante de ADS;
+- 🌱 Desejo mudar de área de Tech, fazer carreira e Network;
+- 👀 LinkedIn: https://www.linkedin.com/in/tiagonevestec
+- 📫 E-mail: tiagonevestec@gmail.com
+- Obrigado pela visita! 0/
