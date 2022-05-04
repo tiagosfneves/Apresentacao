@@ -1,5 +1,5 @@
 - 👋 Olá, Bem vindo! Me chamo Tiago Neves, sou Designer Gráfico e estudante de ADS;
-- 🌱 Desejo mudar de área de Tech, fazer carreira e Network;
-- 👀 LinkedIn: https://www.linkedin.com/in/tiagonevestec
-- 📫 E-mail: tiagonevestec@gmail.com
+- 🌱 Objetivos: 1 trabalho em Tech, fazer carreira e Network;
+- 👀 Redes: https://www.linkedin.com/in/tiagonevestec
+- 📫 Meu currículo está neste repositório;
 - Obrigado pela visita! 0/
