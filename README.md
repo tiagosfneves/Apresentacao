@@ -1,5 +1,7 @@
-- 👋 Olá, Bem vindo! Me chamo Tiago Neves, sou Designer Gráfico e estudante de ADS;
-- 🌱 Objetivos: 1 trabalho em Tech, fazer carreira e Network;
-- 👀 Redes: https://www.linkedin.com/in/tiagonevestec
-- 📫 Meu currículo está neste repositório;
-- Obrigado pela visita! 0/
+- 👋 Olá, Bem vindo(a)! Me chamo Tiago, sou Desenvolvedor Front-End;
+- 🌱 Meus Objetivos: Amizades, Conexões e Trabalhos com muito HTML, CSS e JS;
+- 👀 Minha principal Rede Social:
+- Linkedin -> https://linkedin.com/in/tiagosfneves/
+- 📫 Meu currículo online você acessa este link:
+- CV -> https://tiagosfneves.github.io/cvDevFrontEnd/
+- Obrigado pela visita! :D
